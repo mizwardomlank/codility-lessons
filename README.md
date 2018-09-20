@@ -2,7 +2,7 @@
 Solutino for Codility Lessons (swift 3)
 - [x] Lesson 1 (Iterations)
 - [x] Lesson 2 (Arrays)
-- [ ] Lesson 3 (Time Complexity)
+- [x] Lesson 3 (Time Complexity)
 - [ ] Lesson 4 (Counting Elements)
 - [ ] Lesson 5 (Prefix Sums)
 - [ ] Lesson 6 (Sorting)
